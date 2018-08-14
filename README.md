@@ -19,7 +19,7 @@
 -----------------------------------------------------
 ```
 #clone
-git clone https://github.com/ecitlm/Vue_news.git
+git clone https://github.com/jiajun00/vue_splider.git
 # install dependencies
 npm install
 
